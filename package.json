@@ -1,0 +1,22 @@
+{
+  "name": "scratch3-drawit",
+  "version": "1.0.0",
+  "description": "Server code for the scratch3-bridge based project of a guess-a-doodle",
+  "main": "scratch3-drawit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulolc/scratch3-drawit.git"
+  },
+  "author": "paulolc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulolc/scratch3-drawit/issues"
+  },
+  "homepage": "https://github.com/paulolc/scratch3-drawit#readme",
+  "dependencies": {
+    "scratch3-bridge": "^2.1.1"
+  }
+}
